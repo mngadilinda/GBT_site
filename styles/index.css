@@ -218,7 +218,7 @@ nav{
         font-family: Arial, Helvetica, sans-serif ;
         background-color: rgb(73, 4, 185);
         background: url("My Picture47.jpg") no-repeat center fixed;
-        background-size: 100vw;
+        background-size: 500vh 100vw;
     }
     #nav_bar{
         border-bottom: orange 3px solid;
